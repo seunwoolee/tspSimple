@@ -1,0 +1,6 @@
+11:29:41 **** Incremental Build of configuration Release for project TSP ****
+make all 
+make: Nothing to be done for `all'.
+
+11:29:43 Build Finished (took 1s.791ms)
+
